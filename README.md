@@ -2,7 +2,7 @@
 
 Prosta aplikacja webowa inspirowana serwisem LubimyCzytać.pl, zbudowana jako projekt semestralny na kurs *Wprowadzenie do technologii internetowych*.
 
-🔗 **[Zobacz aplikację na żywo](https://maksympaderin76040.github.io/LubimyCzytacz/)**
+🔗 **[Zobacz aplikację na żywo](https://yahordziamyanenka77143.github.io/ProjektLubimyCzytac/)**
 
 ---
 
